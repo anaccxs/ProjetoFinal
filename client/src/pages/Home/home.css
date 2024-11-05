@@ -157,16 +157,16 @@ nav>ul>li:hover {
     justify-content: center;
 }
 
-#roupas {
+.roupas {
     overflow: hidden;
     position: relative;
 }
 
-#roupas img {
+.roupas img {
     width: 100%;
 }
 
-#roupas:hover {
+.roupas:hover {
     transform: scale(1.02);
     filter: saturate(0);    
     transition: 0.5s;
